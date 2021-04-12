@@ -33,3 +33,10 @@
 <a href="https://github.com/paulofsnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulofsnunes&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Paulo Franklin GitHub Stats" />
 </a>
+
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown
+  <br/>
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
