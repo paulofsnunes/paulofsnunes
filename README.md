@@ -31,7 +31,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofsnunes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/paulofsnunes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulofsnunes&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Paulo Franklin GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulofsnunes&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Paulo Franklin  GitHub Stats" />
 </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
