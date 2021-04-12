@@ -2,6 +2,7 @@
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/paulofsnunes/) [![Gmail Badge](https://img.shields.io/badge/-paulofsnunes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofsnunes@gmail.com)](mailto:paulofsnunes@gmail.com)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 🔧 Technologies & Tools
 
