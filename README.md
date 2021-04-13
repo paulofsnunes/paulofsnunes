@@ -30,7 +30,7 @@
 <a href="https://github.com/paulofsnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofsnunes&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=9f9f9f&bg_color=151515" />
 </a>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 <a href="https://github.com/paulofsnunes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulofsnunes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Paulo Franklin GitHub Stats" />
 </a>
