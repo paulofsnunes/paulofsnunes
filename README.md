@@ -2,6 +2,16 @@
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/paulofsnunes/) [![Gmail Badge](https://img.shields.io/badge/-paulofsnunes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofsnunes@gmail.com)](mailto:paulofsnunes@gmail.com)
 
+
+- 🔭 I am currently studying. Studying a lot!
+- 🌱 I’m currently learning mobile development, Kotlin | Android.
+- 👯 I’m looking to collaborate on mobile and front-end development.
+- 🤔 I’m looking for help with backend.
+- 💬 Ask me about front-end development.
+- 📫 How to reach me: https://www.linkedin.com/in/paulofsnunes/ | paulofsnunes@gmail.com
+- ⚡ Fun fact: I am a law graduate, pretend to play the guitar, love music and books (unfortunately, lately, no time for books)
+
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 🔧 Technologies & Tools
