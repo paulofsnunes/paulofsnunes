@@ -10,7 +10,7 @@
 - 💬 Ask me about front-end development.
 - 📫 How to reach me: https://www.linkedin.com/in/paulofsnunes/ | paulofsnunes@gmail.com
 - 😜 Fun fact: I have a law degree.
-- 😍 My passions are many: my family, music, books, technology, anime, series, movies, animals, vegan food, bathing in the sea...
+- 😍 My passions are many: my family, music, books, technology, anime, series, movies, animals, vegan food, bathing in the sea... front-end development.
 
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
