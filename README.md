@@ -4,7 +4,7 @@
 
 
 - 🚀 I am currently studying. Studying a lot!
-- 🌱 I’m currently learning mobile development, Kotlin | Android.
+- 🌱 I’m currently learning mobile development.
 - 👯 I’m looking to collaborate on mobile and front-end development.
 - 🤔 I’m looking for help with backend.
 - 💬 Ask me about front-end development.
