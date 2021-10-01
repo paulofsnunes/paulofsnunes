@@ -4,8 +4,8 @@
 
 
 - 🚀 I am currently studying. Studying a lot!
-- 🌱 I’m currently learning mobile development.
-- 👯 I’m looking to collaborate on mobile and front-end development.
+- 🌱 I'm currently learning frameworks.
+- 👯 I'm looking to specialize and collaborate on front-end development.
 - 🤔 I’m looking for help with backend.
 - 💬 Ask me about front-end development.
 - 📫 How to reach me: https://www.linkedin.com/in/paulofsnunes/ | paulofsnunes@gmail.com
