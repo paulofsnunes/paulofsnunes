@@ -4,7 +4,7 @@
 
 
 - 🚀 I am currently studying. Studying a lot!
-- 🌱 I'm currently learning frameworks.
+- 🌱 I'm currently learning Vue.js and React.
 - 👯 I'm looking to specialize and collaborate on front-end development.
 - 🤔 I’m looking for help with backend.
 - 💬 Ask me about front-end development.
