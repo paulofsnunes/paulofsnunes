@@ -3,16 +3,6 @@
 ## [![Linkedin Badge](https://img.shields.io/badge/-paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/paulofsnunes/) [![Gmail Badge](https://img.shields.io/badge/-paulofsnunes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulofsnunes@gmail.com)](mailto:paulofsnunes@gmail.com)
 
 
-- 🚀 I am currently studying. Studying a lot!
-- 🌱 I'm currently learning Vue.js and React.
-- 👯 I'm looking to specialize and collaborate on front-end development.
-- 🤔 I’m looking for help with backend.
-- 💬 Ask me about front-end development.
-- 📫 How to reach me: https://www.linkedin.com/in/paulofsnunes/ | paulofsnunes@gmail.com
-- 😜 Fun fact: I have a law degree.
-- 😍 My passions are many: my family, music, books, technology, anime, series, movies, animals, vegan food, bathing in the sea... front-end development.
-
-
 ## 🔧 Technologies & Tools
 
 ### Frontend
