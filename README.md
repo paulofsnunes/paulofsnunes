@@ -15,6 +15,8 @@ I am constantly improving myself, taking courses, and participating in bootcamps
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js logo">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS logo">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo">
 </div>
 </p>
 
@@ -23,7 +25,7 @@ I am constantly improving myself, taking courses, and participating in bootcamps
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/paulofsnunes/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/paulofsnunes/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
