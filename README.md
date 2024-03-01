@@ -2,7 +2,7 @@
 
 ### Hello, my name is Paulo!
 <p align="left">
-<strong>Front-end Developer</strong>, passionate about technology and creating innovative solutions for real-world problems. I have experience in various programming languages, libraries, frameworks, and tools, such as <strong>HTML, JavaScript, React, Vue, Nuxt, Next, Tailwind CSS, SCSS, among others</strong>. Additionally, I possess leadership, communication, teamwork, and continuous learning skills. I have participated in several challenging and high-impact projects throughout my career.
+<strong>Front-end Developer</strong>, passionate about technology and creating innovative solutions for real-world problems. I have experience in various programming languages, libraries, frameworks, and tools, such as <strong>HTML, CSS, JavaScript, React, Vue, Nuxt, Next, Tailwind CSS, SCSS, among others</strong>. Additionally, I possess leadership, communication, teamwork, and continuous learning skills. I have participated in several challenging and high-impact projects throughout my career.
 
 I graduated in Law from PUCRS in 2013, where I always worked with goals, deadlines, high demand, and direct client contact, demonstrating efficiency and positive results. However, Law was not exactly where I fit in. I have always shown ease in the IT field, as computer science is very intuitive to me. It was in the course of 2020 that I fell in love with the programming field, especially in web development, making my career transition and completing the Bachelor's Degree in Systems Analysis and Development at Univali.
 
